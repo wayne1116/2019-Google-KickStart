@@ -9,13 +9,13 @@ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02
 ## The Equation
 1. (from the least significant bit)
 
-    8	1 0 0 0
+    8    1 0 0 0
     
-    4   0 1 0 0
+    4    0 1 0 0
     
-    2   0 0 1 0
+    2    0 0 1 0
  
-    ans 0 0 0 0  -> minimum possible value
+  ans    0 0 0 0  -> minimum possible value
 
 2. (change the bit from most significant bit)
         
