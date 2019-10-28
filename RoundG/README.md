@@ -14,9 +14,7 @@ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02
     4   0 1 0 0
     
     2   0 0 1 0
-    
-        | | | |
-	
+ 
     ans 0 0 0 0  -> minimum possible value
 
 2. (change the bit from most significant bit)
