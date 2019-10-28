@@ -16,3 +16,12 @@ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02
 2. change the bit from most significant bit 
 
    -> find the maximum value
+
+## Shifts
+1. divide the shifts into 2 sets, each having the size of at most ceil(N/2)
+
+2. sorting one vector
+
+3. find the lower bound value of the sorted vector 
+
+4. Time complexity: O(3^(N/2) × N)
