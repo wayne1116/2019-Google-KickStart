@@ -6,7 +6,6 @@ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02
 
    1/1 + 1/2 + ... + 1/N is approximately O(log N) (Harmonic number)
 
-2. Time complexity: O(NlogN + Q)
 
 ## The Equation
 1. count the bit from the least significant bit 
@@ -24,4 +23,3 @@ https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02
 
 3. find the lower bound value of the sorted vector 
 
-4. Time complexity: O(3^(N/2) × N)
