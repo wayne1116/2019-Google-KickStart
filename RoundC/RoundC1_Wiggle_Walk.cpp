@@ -56,7 +56,7 @@ int main()
 				        }
 			      }
             
-			      while(!(curr==mayber && curc==maybec)){                 //update the next position
+			      while(!(curr==mayber && curc==maybec)){                 //updated by the next position
 				        auto temp=next_position.find({{curr,curc},curdir});
 				        next_position[{{curr,curc},curdir}]={mayber,maybec};
 				        if(temp!=next_position.end()){
