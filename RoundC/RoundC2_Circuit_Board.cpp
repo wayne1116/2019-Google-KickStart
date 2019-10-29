@@ -24,8 +24,8 @@ int main()
 			for(j=0; j<col; j++) scanf("%d",&map[i][j]);
 		} 
 		
-		for(i=0; i<row; i++){         //A circuit board is good if in each row,
-			for(j=0; j<col; j++){     //the difference between the thickest square 
+		for(i=0; i<row; i++){                 //A circuit board is good if in each row,
+			for(j=0; j<col; j++){         //the difference between the thickest square 
 				Min=map[i][j];        //and the least thick square is no greater than K.
 				Max=map[i][j];
 				for(k=j+1; k<col; k++){
@@ -38,7 +38,7 @@ int main()
 		}
 		
 		result=row;
-		for(i=0; i<row; i++){        // calculate the columns and find a good subcircuit board
+		for(i=0; i<row; i++){                  // calculate the columns and find a good subcircuit board
 			for(j=0; j<col; j++){
 				Min=temp[i][j];
 				for(k=i; k<row; k++){
