@@ -22,11 +22,11 @@ int main()
 			for(int j=0; j<col; j++){
 				Min=board[i][j];
 				Max=board[i][j];
-				int k;
-				for(k=j+1; k<col; k++){
+				int k; 
+				for(k=j+1; k<col; k++){                 // each row
 					Min=min(Min, board[i][k]);
 					Max=max(Max, board[i][k]);
-					if(Max-Min>dthick) break;
+					if(Max-Min>dthick) break;      
 				}
 				dp[i][j]=k-j;
 			}
