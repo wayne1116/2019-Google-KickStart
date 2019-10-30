@@ -37,7 +37,7 @@ int main()
 			      sort(temp[i].begin(),temp[i].end());
 		    }
 		
-		    for(int i=0; i<=color_number; i++){
+		    for(int i=0; i<=color_number; i++){                                //initialization
 			      color_position[i][0]=0;
 			      for(int j=1; j<=observe; j++) color_position[i][j]=inf;
 		    }
