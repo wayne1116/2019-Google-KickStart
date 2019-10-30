@@ -1,5 +1,4 @@
-## Round C
-https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2
+## [Round C](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2)
 
 ### Wiggle Walk
 - find the next position
