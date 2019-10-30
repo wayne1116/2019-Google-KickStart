@@ -1,25 +1,24 @@
-# Round G
+## Round G
 https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02
 
-## Book Reading
-1. We can compute f(1), f(2), ..., f(N) in a total of N(1/1 + 1/2 + ... + 1/N) time.
+### Book Reading
+- We can compute f(1), f(2), ..., f(N) in a total of N(1/1 + 1/2 + ... + 1/N) time.
 
-   1/1 + 1/2 + ... + 1/N is approximately O(log N) (Harmonic number)
+  1/1 + 1/2 + ... + 1/N is approximately O(log N) (Harmonic number)
 
 
-## The Equation
-1. count the bit from the least significant bit 
+### The Equation
+- count the bit from the least significant bit 
  
-   -> find the minimum possible value
+  -> find the minimum possible value
 
-2. change the bit from most significant bit 
+- change the bit from most significant bit 
 
-   -> find the maximum value
+  -> find the maximum value
 
-## Shifts
-1. divide the shifts into 2 sets, each having the size of at most ceil(N/2)
+### Shifts
+- divide the shifts into 2 sets, each having the size of at most ceil(N/2)
 
-2. sorting one vector
+- sorting one vector
 
-3. find the lower bound value of the sorted vector 
-
+- find the lower bound value of the sorted vector 
