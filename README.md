@@ -3,11 +3,22 @@ This project includes my solutions for Google Kick Start with c++.
 
 ## 2019
 
-### [Round A](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01)
+### Round A
+- Training
+- Parcels
+- Contention
 
-### [Round B](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050eda)
+### Round B
+- Building Palindromes
+- Energy Stones
+- Diverse Subarray
 
-### [Round C](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2)
+### Round C
+- Wiggle Walk
+- Circuit Board
+- Catch Some
 
-### [Round G](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02)
-
+### Round G
+- Book Reading
+- The Equation
+- Shifts
