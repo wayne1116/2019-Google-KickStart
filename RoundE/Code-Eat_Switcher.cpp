@@ -30,7 +30,7 @@ int main()
 		    }
 		    sort(lnode,lnode+slot,cmp);
 		
-        vector<double> dp(slot);
+        	    vector<double> dp(slot);
 		    vector<double> dp1(slot);
 		    dp[0]=lnode[0].eat;
 		    dp1[0]=lnode[0].code;
