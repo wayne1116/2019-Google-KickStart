@@ -20,8 +20,6 @@ This project includes my solutions for Google Kick Start with c++.
 
 ### Round E
 - Cherries Mesh
-- Code-Eat Switcher
-- Street Checkers
 
 ### Round G
 - Book Reading
