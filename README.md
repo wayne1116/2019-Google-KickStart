@@ -18,6 +18,11 @@ This project includes my solutions for Google Kick Start with c++.
 - Circuit Board
 - Catch Some
 
+### Round E
+- Cherries Mesh
+- Code-Eat Switcher
+- Street Checkers
+
 ### Round G
 - Book Reading
 - The Equation
