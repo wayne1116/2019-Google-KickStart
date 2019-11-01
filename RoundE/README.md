@@ -14,9 +14,10 @@
 
 - two case: when the random number is even/odd
   
-  even:
+  even: three sub case
+        
+        a. when the random number is 8
+        
+        
   
-  
-  
-  odd: 
-
+  odd: determine whether it is a prime number
