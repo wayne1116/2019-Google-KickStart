@@ -35,7 +35,7 @@ int main()
 			    auto iter=oddlocation.find(pos);
 			    bool temp=biteven(value);
 			    if(iter!=oddlocation.end() && temp) oddlocation.erase(iter);
-		      else if(iter==oddlocation.end() && !temp) oddlocation.insert(pos);	
+		      	    else if(iter==oddlocation.end() && !temp) oddlocation.insert(pos);	
 
 			    if(oddlocation.size()%2==0) result.push_back(n);
 			    else{
