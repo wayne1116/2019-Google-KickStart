@@ -1,14 +1,14 @@
 ## [Round C](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050ff2)
 
 ### Wiggle Walk
-- find the next position
+- Find the next position
 
-- updated by the next position
+- Updated by the next position
 
 ### Circuit Board
-- define Pi,j as the maximum number of contigious cells on the right of the cell i, j in each row.
+- Define Pi,j as the maximum number of contigious cells on the right of the cell i, j in each row.
    
-- find the area of the largest rectangle in each column.
+- Find the area of the largest rectangle in each column.
 
 ### Catch Some
 
