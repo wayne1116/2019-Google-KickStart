@@ -7,17 +7,17 @@
 
 
 ### The Equation
-- count the bit from the least significant bit 
+- Count the bit from the least significant bit 
  
   -> find the minimum possible value
 
-- change the bit from most significant bit 
+- Change the bit from most significant bit 
 
   -> find the maximum value
 
 ### Shifts
-- divide the shifts into 2 sets, each having the size of at most ceil(N/2)
+- Divide the shifts into 2 sets, each having the size of at most ceil(N/2)
 
-- sorting one vector
+- Sorting one vector
 
-- find the lower bound value of the sorted vector 
+- Find the lower bound value of the sorted vector 
