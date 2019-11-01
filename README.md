@@ -18,6 +18,9 @@ This project includes my solutions for Google Kick Start with c++.
 - Circuit Board
 - Catch Some
 
+### Round D
+- X or What
+
 ### Round E
 - Cherries Mesh
 - Code-Eat Switcher
