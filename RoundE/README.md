@@ -10,4 +10,13 @@
 
 ### Street Checkers
 
--
+- find the prime number from 1 to sqrt(10^9)
+
+- two case: when the random number is even/odd
+  
+  even:
+  
+  
+  
+  odd: 
+
