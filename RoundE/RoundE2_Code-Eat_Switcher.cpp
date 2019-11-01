@@ -46,7 +46,7 @@ int main()
 			      if(totaleat<eat || totalcode<code){
 				        result[i]='N';
 				        continue;
-		    	  }
+		    	      }
 			      double diff=totaleat-eat;
 			      auto temp=upper_bound(dp.begin(),dp.end(), diff);
 			      int position = (temp-dp.begin());
