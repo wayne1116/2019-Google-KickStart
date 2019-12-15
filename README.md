@@ -3,30 +3,30 @@ This project includes my solutions for Google Kick Start with c++.
 
 ## 2019
 
-### Round A
+### [Round A](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundA)
 - Training
 - Parcels
 - Contention
 
-### Round B
+### [Round B](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundB)
 - Building Palindromes
 - Energy Stones
 - Diverse Subarray
 
-### Round C
+### [Round C](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundC)
 - Wiggle Walk
 - Circuit Board
 - Catch Some
 
-### Round D
+### [Round D](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundD)
 - X or What
 
-### Round E
+### [Round E](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundE)
 - Cherries Mesh
 - Code-Eat Switcher
 - Street Checkers
 
-### Round G
+### [Round G](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundG)
 - Book Reading
 - The Equation
 - Shifts
