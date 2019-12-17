@@ -11,10 +11,18 @@ and negative partition means the digit is in the even index (be calculated as mi
 
 - Let dp(i, j, k) denote if it is possible to achieve the state
   
+  ```
   i: current digit
   
   j: current number of digits in the positive partition
   
   k: current sum(|positive partition-negative partition|) modulo 11
+  ```
   
+- Two case (select or not select):
+
+  ```
+  dp(i, j+1, (k+digit) % 11) |= dp(i-1, j, k)
   
+  dp(i, j, (k-digit+11) % 11) |= dp(i-1, j, k)
+  ```  
