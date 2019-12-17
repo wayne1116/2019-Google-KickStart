@@ -22,7 +22,11 @@ and negative partition means the digit is in the even index (be calculated as mi
 - Two case (select or not select):
 
   ```
+  - [x] select the current digit
+  
   dp(i, j+1, (k+digit) % 11) |= dp(i-1, j, k)
+  
+  -[] not select the current digit
   
   dp(i, j, (k-digit+11) % 11) |= dp(i-1, j, k)
   ```  
