@@ -1,0 +1,20 @@
+## [Round G](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edd)
+
+### Elevangram
+
+We need to divide each digits to two partitions: positive partition and negative partition, 
+
+where positive partition means the digit is on the odd index (be calculated as add), 
+
+and negative partition means the digit is in the even index (be calculated as minus).
+
+
+- Let dp(i, j, k) denote if it is possible to achieve the state
+  
+  i: current digit
+  
+  j: current number of digits in the positive partition
+  
+  k: current sum(|positive partition-negative partition|) modulo 11
+  
+  
