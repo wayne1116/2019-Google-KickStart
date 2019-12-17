@@ -22,11 +22,11 @@ and negative partition means the digit is in the even index (be calculated as mi
 - Two case (select or not select):
 
   ```
-  1. select the current digit -> positive partition
+  ### 1. Select the current digit -> positive partition
   
   dp(i, j+1, (k + current_digit) % 11) |= dp(i-1, j, k)
   
-  2. not select the current digit -> negative partition
+  ### 2. Not select the current digit -> negative partition
   
   dp(i, j, (k - current_digit + 11) % 11) |= dp(i-1, j, k)
   
