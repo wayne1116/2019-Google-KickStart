@@ -14,7 +14,7 @@ and negative partition means the digit is in the even index (be calculated as mi
   ```
   i: current digit
   
-  j: current number of digits in the positive partition
+  j: number of digits in the current positive partition
   
   k: current sum(|positive partition-negative partition|) modulo 11
   ```
