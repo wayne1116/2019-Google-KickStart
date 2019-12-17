@@ -1,5 +1,15 @@
 ## [Round G](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edd)
 
+### H-index
+
+We initialize the H-index with 0, and after adding each paper, we need to update the current H-index.
+
+- the order of numbers in the vector are non-decreasing.
+
+- use lower bound method to find the location where current citation number inserts in the vector.
+
+- use lower bound method to find the current H-index answer.
+
 ### Elevangram
 
 We need to divide each digits to two partitions: positive partition and negative partition, 
