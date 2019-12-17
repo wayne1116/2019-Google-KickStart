@@ -1,23 +1,19 @@
-## [Round G](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e02)
+## [Round G](https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050edd)
 
-### Book Reading
-- We can compute f(1), f(2), ..., f(N) in a total of N(1/1 + 1/2 + ... + 1/N) time.
+### Elevangram
 
-  1/1 + 1/2 + ... + 1/N is approximately O(log N) (Harmonic number)
+We need to divide each digits to two partitions: positive partition and negative partition, 
+
+where positive partition means the digit is on the odd index (be calculated as add), 
+
+and negative partition means the digit is in the even index (be calculated as minus).
 
 
-### The Equation
-- Count the bit from the least significant bit 
- 
-  -> find the minimum possible value
+- Let dp(i, j, k) denote if it is possible to achieve the state
+  
+  i: current digit
+  
+  j: current number of digits in the positive partition
+  
+  k: current sum(|positive partition-negative partition|) modulo 11
 
-- Change the bit from most significant bit 
-
-  -> find the maximum value
-
-### Shifts
-- Divide the shifts into 2 sets, each having the size of at most ceil(N/2)
-
-- Sorting one vector
-
-- Find the lower bound value of the sorted vector 
