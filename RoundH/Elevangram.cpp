@@ -19,7 +19,7 @@ int main()
 			  cin >> num[i];
 		  	if(num[i]>20){
 				  if(num[i]&1) num[i]=20;
-				  else num[i]=19;
+				  else num[i]=21;
 			  }  
 			  total+=num[i];
 		  }
