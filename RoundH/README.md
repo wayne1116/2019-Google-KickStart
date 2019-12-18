@@ -26,10 +26,15 @@ By placing some i's on the (+)left side and others on the (-)right side.
 
 For example i = 2, and a[i] = 3. Sums list will be as follows:
 
+```
       | 2 2 2 -> -2 -2 -2 = -6
+      
 2     | 2 2   -> +2 -2 -2 = -2
+
 2 2   | 2     -> +2 +2 -2 = +2
+
 2 2 2 |       -> +2 +2 +2 = +6
+```
 
 Let's take an example where i = 1, and Ai = 20.
 
