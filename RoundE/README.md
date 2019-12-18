@@ -4,6 +4,8 @@
 
 - Minimum spanning tree
 
+---
+
 ### Code-Eat Switcher
 
 - Define the ratio (eat/code) and than sort
@@ -11,6 +13,8 @@
 - Calculate the excess units of snakes
 
 - Find the upper bound of the value
+
+---
 
 ### Street Checkers
 
