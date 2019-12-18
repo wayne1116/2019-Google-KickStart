@@ -14,18 +14,32 @@ We initialize the H-index with 0, and after adding each paper, we need to update
 
 ### Elevangram
 
-**Reduce the number(Ai) of each digit(1-9):**
-
-given a[i] is greater than or equal to 20
-
-**Dynamic programming method:**
-
 We need to divide each digits to two partitions: positive partition and negative partition, 
 
 where positive partition means the digit is on the odd index (be calculated as add), 
 
 and negative partition means the digit is in the even index (be calculated as minus).
 
+**Reduce the number(Ai) of each digit(1-9):**
+
+By placing some i's on the (+)left side and others on the (-)right side.
+
+For example i = 2, and a[i] = 3. Sums list will be as follows:
+
+      | 2 2 2 -> -2 -2 -2 = -6
+2     | 2 2   -> +2 -2 -2 = -2
+2 2   | 2     -> +2 +2 -2 = +2
+2 2 2 |       -> +2 +2 +2 = +6
+
+Let's take an example where i = 1, and Ai = 20.
+
+Sums will be: [0, 2, 4, 8, 10, 12, 14, 16, 18, 20]
+
+Sums%11: [0, 2, 4, 8, 10, 1, 3, 5, 7, 9], which basically covers all numbers in range [0, 10].
+
+Reference : 
+
+**Dynamic programming method:**
 
 - Let dp(i, j, k) denote if it is possible to achieve the state
   
