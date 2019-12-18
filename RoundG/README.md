@@ -5,6 +5,7 @@
 - We can compute f(1), f(2), ..., f(N) in a total of N(1/1 + 1/2 + ... + 1/N) time.
 
    1/1 + 1/2 + ... + 1/N is approximately O(log N) (Harmonic number)
+---
 
 ### The Equation
 - Count the bit from the least significant bit
@@ -14,6 +15,7 @@
 - Change the bit from most significant bit
 
   -> find the maximum value
+---
 
 ### Shifts
 
