@@ -5,10 +5,14 @@
 
 - Updated by the next position
 
+---
+
 ### Circuit Board
 - Define Pi,j as the maximum number of contigious cells on the right of the cell i, j in each row.
    
 - Find the area of the largest rectangle in each column.
+
+---
 
 ### Catch Some
 
