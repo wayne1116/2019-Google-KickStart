@@ -14,7 +14,7 @@ We initialize the H-index with 0, and after adding each paper, we need to update
 
 ### Elevangram
 
-**Reduce the number of each digit
+**Reduce the number of each digit:**
 
 
 
