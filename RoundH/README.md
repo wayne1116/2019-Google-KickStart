@@ -20,6 +20,7 @@ where positive partition means the digit is on the odd index (be calculated as a
 
 and negative partition means the digit is in the even index (be calculated as minus).
 
+
 **Reduce the number(Ai) of each digit(1-9):**
 
 By placing some i's on the left side and others on the right side.
@@ -43,6 +44,7 @@ Let's take an other example where **i = 1, and Ai = 20.**
 Sums = [0, 2, 4, 8, 10, 12, 14, 16, 18, 20]
 
 Sums % 11 = [0, 2, 4, 8, 10, 1, 3, 5, 7, 9], which basically covers all numbers in range 1<= [the element in the Sums % 11]<=9.
+
 
 **Dynamic programming method:**
 
