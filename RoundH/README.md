@@ -24,7 +24,7 @@ and negative partition means the digit is in the even index (be calculated as mi
 
 By placing some i's on the (+)left side and others on the (-)right side.
 
-For example i = 2, and a[i] = 3. Sums list will be as follows:
+For **example i = 2, and a[i] = 3.** Sums list will be as follows:
 
 ```
       | 2 2 2 -> -2 -2 -2 = -6
