@@ -75,7 +75,7 @@ Sums % 11 = [0, 2, 4, 8, 10, 1, 3, 5, 7, 9], which basically covers all numbers 
 - Let dp(i, j, k) denote if it is possible to achieve the state
   
   ```
-  i: current digit
+  i: the i-th element in the set of digits
   
   j: number of digits in the current positive partition
   
@@ -85,11 +85,11 @@ Sums % 11 = [0, 2, 4, 8, 10, 1, 3, 5, 7, 9], which basically covers all numbers 
 - Two case (select or not select):
 
   ```
-  1. Select the current digit -> positive partition
+  1. Select the i-th element -> positive partition
   
   dp(i, j+1, (k + current_digit) % 11) |= dp(i-1, j, k)
   
-  2. Not select the current digit -> negative partition
+  2. Not select the i-th element -> negative partition
   
   dp(i, j, (k - current_digit + 11) % 11) |= dp(i-1, j, k)
   
