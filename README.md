@@ -1,4 +1,4 @@
-# [Kickstart - Google Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart/archive/2019)
+# [Kickstart - 2019 Google Coding Competitions](https://codingcompetitions.withgoogle.com/kickstart/archive/2019)
 This project includes my solutions for Google Kick Start with c++.
 
 ## 2019
