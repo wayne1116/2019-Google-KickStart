@@ -26,8 +26,7 @@ For this problem, we can consider each diagonal as a vertex of a graph, and the 
 
 - Create the new graph that each diagonal as a vertex and the squares in the grid are the edges between the two diagonals that affect that square
 
-- 
-
+- 2-coloring problem
 
 ---
 
