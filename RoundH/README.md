@@ -31,7 +31,7 @@ For this problem, we can consider each diagonal as a vertex of a graph, and the 
 **For example(n=3):**
 
 <div align=center>
-<img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundH/diagonal_Puzzle_example.jpg" width="200"> 
+<img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundH/diagonal_Puzzle_example.jpg" width="200" alt="diagonal_Puzzle_example.jpg"> 
 </div>
 
 ---
