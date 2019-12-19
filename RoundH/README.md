@@ -20,7 +20,9 @@ Each of the cells in the grid is shared by two diagonals. If a cell is white, ei
 
 For this problem, we can consider each diagonal as a vertex of a graph, and and the squares in the grid are the edges between the two diagonals that affect that square.
 
-- give the unique number to each diagonal   
+**Implement:**
+
+- At first, give the unique number to each diagonal   
 
 
 ---
