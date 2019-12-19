@@ -14,6 +14,7 @@ We initialize the H-index with 0, and after adding each paper, we need to update
 
 ### Diagonal Puzzle
 
+- give the unique number to each diagonal   
 
 
 ---
