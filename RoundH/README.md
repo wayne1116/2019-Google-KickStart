@@ -14,7 +14,7 @@ We initialize the H-index with 0, and after adding each paper, we need to update
 
 ### Diagonal Puzzle
 
-We can convert this problem into a variant of 2-coloring. 
+We can convert this problem into a variant of **2-coloring**. 
 
 Each of the cells in the grid is shared by two diagonals. If a cell is white, either one of them needs to be flipped to make this cell black. Otherwise, none of these two diagonals needs to be flipped. 
 
