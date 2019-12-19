@@ -8,10 +8,10 @@
 
 - Two case
 
-        a. when the size of the set is even
+        a. When the size of the set is even
            -> the maximum value is n
             
-        b. when the size of the set is odd
+        b. When the size of the set is odd
            -> the maximun value : (n-temp1-1) or temp2
                which temp1 is the maximum index value of the odd number
                      temp2 is the minimum index value of the odd number
