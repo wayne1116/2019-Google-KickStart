@@ -35,8 +35,21 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 </div><br />  
   
   
-- finally label each guest traveling consulates which are visited. (Code line: 93-120)  
+- label each guest traveling consulates which are visited. (Code line: 93-120)  
   
 <div align=center>
 <img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture2.jpg" width="350" alt="RoundD3_picture2.jpg"> 
 </div><br />
+
+- we handle anti-clockwise guests similarly. (Code line: 122-183)
+
+- finally, consider three case:
+  
+  ```
+   1. compare the reach time between clockwise and anti_clockwise guests in the same position. Choose the largest reach time.
+   
+   2. the position which only clockwise guests visited.
+   
+   3. the position which only anti_clockwise guests visited.
+  ```
+  
