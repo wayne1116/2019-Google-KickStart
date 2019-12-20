@@ -46,7 +46,9 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 - finally, consider three case:
   
   ```
-   1. compare the reach time between clockwise and anti_clockwise guests in the same position. Choose the largest reach time.
+   1. compare the reach time between clockwise and anti_clockwise guests in the same position. 
+      
+      **Choose the largest reach time.**
    
    2. the position which only clockwise guests visited.
    
