@@ -24,5 +24,7 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 
 **Take clockwise guests for example:**
 
-- 
+- At first, we make clockwise guests having the same initial positions in the same group, and also maintain a mapping from guests to group.
+
+
            
