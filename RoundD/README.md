@@ -34,5 +34,9 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 <img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture1.jpg" width="300" alt="RoundD3_picture1.jpg"> 
 </div>
   
+  
 - finally label each guest traveling consulates which are visited. (Code line: 93-120)  
-           
+  
+<div align=center>
+<img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture2.jpg" width="300" alt="RoundD3_picture2.jpg"> 
+</div>
