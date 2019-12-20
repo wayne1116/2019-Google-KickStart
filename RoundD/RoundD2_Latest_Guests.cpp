@@ -76,7 +76,7 @@ int main()
                 cnode_time[s]={iter1->first,num};
             }
             else{
-                //cosider the situation when each guest goes round
+                //cosider the situation when each guest goes around
                 int cur, pre, num;
                 for(int i=0; i<len; i++){                   // O(node)
                     cur=queue[i];
