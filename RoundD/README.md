@@ -24,9 +24,11 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 
 **Take clockwise guests for example:**
 
-- At first, we make clockwise guests having the same initial positions in the same group, and also maintain a mapping from guests to group. (Code Line: 46-49)
+- At first, we make clockwise guests having the same initial positions in the same group, and also maintain a mapping from guests to group. (Code line: 46-49)
 
-- record the positions of groups. (Code Line: 57-63)
+- record the positions of groups. (Code line: 57-63)
+
+- Consider the case when M time is greater than N consulates, we need to:
 
 - 
            
