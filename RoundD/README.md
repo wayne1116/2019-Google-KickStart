@@ -31,12 +31,12 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 - consider the case M time is greater than N consulates, we need to label consulates which were visited when all guests went around. (Code line: 64-91)
 
 <div align=center>
-<img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture1.jpg" width="300" alt="RoundD3_picture1.jpg"> 
+<img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture1.jpg" width="350" alt="RoundD3_picture1.jpg"> 
 </div>
   
   
 - finally label each guest traveling consulates which are visited. (Code line: 93-120)  
   
 <div align=center>
-<img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture2.jpg" width="300" alt="RoundD3_picture2.jpg"> 
+<img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture2.jpg" width="350" alt="RoundD3_picture2.jpg"> 
 </div>
