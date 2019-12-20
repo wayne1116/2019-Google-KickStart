@@ -97,7 +97,7 @@ int main()
             int prev=(i-1+len)%len;
             int count = (queue[curr]-queue[prev]+node)%node;
             int start=(queue[curr]+tminu2)%node;
-
+            // explain in detail in README
             if(count>tminu2||len==1){
                 while(tminu2>=0){
                     auto temp=cnode_time.find(start);
