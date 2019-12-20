@@ -43,7 +43,7 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 
 - we handle anti-clockwise guests similarly. (Code line: 122-183)
 
-- finally, consider three case:
+- finally, consider three case: (Code line: 188-230)
   
   ```
    1. compare the reach time between clockwise and anti_clockwise guests in the same position. 
