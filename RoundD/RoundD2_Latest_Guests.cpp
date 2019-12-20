@@ -3,9 +3,13 @@
 #include<set>
 #include<map>
 using namespace std;
+// record the clockwise guests
 map<int,bool> clockwise;
+// record the anti_clockwise guests
 map<int,bool> anti_clockwise;
+// record consulates where the clockwise guests reach at m time
 map<int, pair<int,int> > cnode_time;
+// record consulates where the anti_clock guests reach at m time
 map<int, pair<int,int> > anode_time;
 
 int number[100001];
