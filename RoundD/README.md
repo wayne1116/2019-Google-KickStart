@@ -39,4 +39,4 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
   
 <div align=center>
 <img src="https://github.com/wayne1116/2019_Google_KickStart/blob/master/RoundD/RoundD3_picture2.jpg" width="350" alt="RoundD3_picture2.jpg"> 
-</div>
+</div><br />
