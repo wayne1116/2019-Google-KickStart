@@ -20,7 +20,9 @@
 
 ### Latest Guests
 
-- Consider the guests who travel clockwise. Guests having the **same initial positions are in the same group** and guests having different initial positions are in different groups. We maintain a mapping from guests to groups. We are going to find for each group, how many consulates remember it. We handle anti-clockwise guests similarly
-  
+Consider the guests who travel clockwise. Guests having the **same initial positions are in the same group** and guests having different initial positions are in different groups. We maintain a mapping from guests to groups. We are going to find for each group, how many consulates remember it. We handle anti-clockwise guests similarly.
+
+**Take clockwise guests for example:**
+
 - 
            
