@@ -59,7 +59,7 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 
 ### Food Stalls
 
-**Determine the warehouse is**
+**Determine the location of the warehouse 
 
 - Suppose we decided on the K+1 spots where we will place our stalls and warehouse but are yet to decide where to place our warehouse, let's say the co-ordinates of these spots are Y<sub>1</sub>, Y<sub>2</sub>, ..., Y<sub>K+1</sub> in **increasing order**. Obviously, it'll be the spot **Y<sub>j</sub> such that |Y<sub>j</sub> - Y<sub>1</sub>| + |Y<sub>j</sub> - Y<sub>2</sub>| + ... |Y<sub>j</sub> - Y<sub>K+1</sub>| is minimum**. This is the classic post office location problem and is solved by putting **the warehouse in the median point of our chosen points** (in case of even number of points with two medians, any one will yield an optimal answer).
 
