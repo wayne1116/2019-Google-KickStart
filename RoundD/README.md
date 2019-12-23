@@ -54,4 +54,7 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
    
    3. the position which only anti_clockwise guests visited.
   ```
-  
+
+### Food Stalls
+
+
