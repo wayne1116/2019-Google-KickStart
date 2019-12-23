@@ -66,6 +66,7 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 
 **Calculate the minumun cost if the warehouse is on the i-th spot**
 
-After the above observations, we know that we must put floor(K/2) stalls on the left of our warehouse and K-floor(K/2) stalls on the right. If we can calculate, for every position of the warehouse, the minimum cost to place these points, we will be done.
+After the above observations, we know that we must put **floor(K/2) stalls on the left** of our warehouse and **K-floor(K/2) stalls on the right**. If we can calculate, for every position of the warehouse, the minimum cost to place these points, we will be done.
+
 
 
