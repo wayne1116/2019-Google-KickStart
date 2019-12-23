@@ -18,7 +18,7 @@
 
 ### Street Checkers
 
-- Find the prime number from 1 to sqrt(10^9)
+- Find the prime number from 1 to sqrt(10<sup>9</sup>)
 
 - Two case: when the random number is an even/odd number
   
@@ -28,10 +28,10 @@
         
         b. when the random number is composed as follows 
            
-           a*2^n, when n is 2 and determine whether a is the prime number
+           a*2<sup>n</sup>, when n is 2 and determine whether a is the prime number
         
         c. when the random number is composed as follows
         
-           a*2^n, when n is less than 2 and a is an odd number
+           a*2<sup>n</sup>, when n is less than 2 and a is an odd number
          
   odd: determine whether it is a prime number
