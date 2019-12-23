@@ -63,11 +63,13 @@ left(+)   right(-)         Sum
 1 1 1   |           -> +1 +1 +1 = +3
 ```
 
-Let's take an other example where **i = 1, and Ai = 20.**
+Let's take an other example where **i = 1, and A<sub>i</sub> = 20.**
 
 Sums = [0, 2, 4, 8, 10, 12, 14, 16, 18, 20]
 
-Sums % 11 = [0, 2, 4, 8, 10, 1, 3, 5, 7, 9], which basically covers all numbers in range 1<= [the element in the Sums % 11]<=9.
+Sums % 11 = [0, 2, 4, 8, 10, 1, 3, 5, 7, 9], 
+
+which basically covers all numbers in range 1<= [the element in the Sums % 11]<=9.
 
 
 **Dynamic programming method:**
