@@ -68,7 +68,7 @@ Consider the guests who travel clockwise. Guests having the **same initial posit
 
 - After the above observations, we know that we must put **floor(K/2) stalls on the left** of our warehouse and **K-floor(K/2) stalls on the right**. If we can calculate, for every position of the warehouse, the minimum cost to place these points, we will be done.
 
-- For simplicity, we assume the given points X<sub>0</sub>, X<sub>1</sub>, ..., X<sub>N-1</sub> to be sorted. Now, we will maintain a **max-heap of size floor(K/2)**. For position i, we define **V<sub>i</sub> = X<sub>N</sub> - X<sub>i</sub> + C<sub>i</sub>**. Initially, we will store V<sub>0</sub>, V<sub>1</sub>, ..., V<sub>floor(K/2)-1</sub> in our heap. We'll also maintain **the sum of all the elements in our heap**.
+- For simplicity, we assume the given points X<sub>0</sub>, X<sub>1</sub>, ..., X<sub>N-1</sub> to be sorted. Now, we will maintain a **max-heap of size floor(K/2)**. For position i, we define **V<sub>i</sub> = X<sub>N-1</sub> - X<sub>i</sub> + C<sub>i</sub>**. Initially, we will store V<sub>0</sub>, V<sub>1</sub>, ..., V<sub>floor(K/2)-1</sub> in our heap. We'll also maintain **the sum of all the elements in our heap**.
 
 - If we consider that we are placing the warehouse at **X<sub>floor(K/2)</sub>**, then the minimum cost of placing all floor(K/2) stalls to the left of it is given by **sum of all the elements in our heap - floor(K/2) * (X<sub>N-1</sub> - X<sub>floor(K/2)</sub>)**
 
