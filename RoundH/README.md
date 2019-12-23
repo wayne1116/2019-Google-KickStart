@@ -45,7 +45,7 @@ where positive partition means the digit is on the odd index (be calculated as a
 and negative partition means the digit is in the even index (be calculated as minus).
 
 
-**Reduce the number(Ai) of each digit(1-9):**
+**Reduce the number(A<sub>i</sub>) of each digit(1-9):**
 
 By placing some i's on the left side and others on the right side.
 
