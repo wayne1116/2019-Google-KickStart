@@ -30,6 +30,7 @@ This project includes my solutions for Google Kick Start with c++.
 
 ### [Round F](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundF)
 - Flattening
+- Teach Me
 
 
 ### [Round G](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundG)
