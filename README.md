@@ -28,6 +28,10 @@ This project includes my solutions for Google Kick Start with c++.
 - Code-Eat Switcher
 - Street Checkers
 
+### [Round F](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundF)
+- Flattening
+
+
 ### [Round G](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundG)
 - Book Reading
 - The Equation
