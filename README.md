@@ -29,7 +29,7 @@ Rank: 2041
 - Latest Guests
 - Food Stalls
 
-Rank: 2041
+Rank: 1865
 
 ### [Round E](https://github.com/wayne1116/2019_Google_KickStart/tree/master/RoundE)
 - Cherries Mesh
@@ -57,4 +57,4 @@ Rank: N/A
 - Diagonal Puzzle
 - Elevangram
 
-Rank: N/A
+Rank: 682
